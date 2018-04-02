@@ -12,4 +12,5 @@ The lecture is devided into 5 parts:
 After that a comprehensive project will be completed.
 
 ## Exercise 1 and reference codes
-[!Exercise 1](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_1.cpp)
+[Exercise 1](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_1.cpp): Character Variable and Standard IO  
+[Reference Codes](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_1.cpp)
