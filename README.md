@@ -10,3 +10,6 @@ The lecture is devided into 5 parts:
 * Operations Overload
 
 After that a comprehensive project will be completed.
+
+## Exercise 1 and reference codes
+[!Exercise 1](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_1.cpp)
