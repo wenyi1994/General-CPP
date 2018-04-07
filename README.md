@@ -7,7 +7,7 @@ The lecture is devided into 5 parts:
 * Branch Statement
 * Function
 * Class
-* Operations Overload
+* Operators Overload
 
 After that a comprehensive project will be completed.
 
