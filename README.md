@@ -20,5 +20,5 @@ After that a comprehensive project will be completed.
 * Explicit euler method
 * Invert character array  
 
-[Reference Codes: xplicit euler method](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_2.cpp)
+[Reference Codes: xplicit euler method](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_2.cpp)  
 [Reference Codes: Invert char array](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/invert_char.cpp)
