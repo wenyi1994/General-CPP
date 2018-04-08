@@ -19,4 +19,5 @@ After that a comprehensive project will be completed.
 [Exercise 2](https://github.com/wenyi1994/General-CPP/blob/master/Lecture_Materials/Exercises_2.pdf):
 * Explicit euler method
 * Invert character array  
+
 [Reference Codes](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_2.cpp)
