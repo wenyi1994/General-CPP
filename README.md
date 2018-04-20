@@ -22,3 +22,14 @@ After that a comprehensive project will be completed.
 
 [Reference Codes: explicit euler method](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_2.cpp)  
 [Reference Codes: Invert char array](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/invert_char.cpp)
+
+## Exercise 3 and reference codes
+[Exercise 3](https://github.com/wenyi1994/General-CPP/blob/master/Lecture_Materials/Exercises_3.pdf):
+* Vector-Class
+* Matrix-Class
+
+[Reference Codes: Vector.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Vector.cpp)  
+[Reference Codes: Vector.h](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Vector.h)  
+[Reference Codes: Matrix.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Matrix.cpp)  
+[Reference Codes: Matrix.h](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Matrix.h)  
+[Reference Codes: Test](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_3.cpp)
