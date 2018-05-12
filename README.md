@@ -1,13 +1,14 @@
 # General-CPP
-Some basic knowledges and applications of C++ will be delivered. The content focuses on the realization of the function rather than algorithms. In engineering area, the most important thing is to meet various of requirements. No one cares how this is achieved.  
+Some basic knowledges and applications of C++ will be delivered. The content focuses on the realization of the function rather than algorithms. In engineering area, the most important thing is to meet various of requirements. No one cares how it is achieved.  
 *Anything is at all better than nothing.*
 
-The lecture is devided into 5 parts:
+The lecture is devided into 6 parts:
 * Variable
 * Branch Statement
 * Function
 * Class
 * Operators Overload
+* File read and write
 
 After that a comprehensive project will be completed.
 
