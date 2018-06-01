@@ -14,6 +14,8 @@ After that a comprehensive project will be completed.
 
 From [here](https://github.com/wenyi1994/General-CPP/tree/master/Lecture_Materials) you can find the latest tutorial materials.
 
+### Before beginning, please complete [Exercise 0](https://github.com/wenyi1994/General-CPP/blob/master/Lecture_Materials/Exercises_0.pdf) to configure the environment.
+
 ## Exercise 1 and reference codes
 [Exercise 1](https://github.com/wenyi1994/General-CPP/blob/master/Lecture_Materials/Exercises_1.pdf): Character Variable and Standard IO  
 [Reference Codes](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_1.cpp)
