@@ -31,8 +31,19 @@ From [here](https://github.com/wenyi1994/General-CPP/tree/master/Lecture_Materia
 * Vector-Class
 * Matrix-Class
 
-[Reference Codes: Vector.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Vector.cpp)  
 [Reference Codes: Vector.h](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Vector.h)  
-[Reference Codes: Matrix.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Matrix.cpp)  
+[Reference Codes: Vector.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Vector.cpp)  
 [Reference Codes: Matrix.h](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Matrix.h)  
+[Reference Codes: Matrix.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Matrix.cpp)  
 [Reference Codes: Test](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/exercise_3.cpp)
+
+## Exercise 4 and reference codes
+[Exercise 4](https://github.com/wenyi1994/General-CPP/blob/master/Lecture_Materials/Exercises_4.pdf):
+* Vector-Class: Realization with operator overload
+* Matrix-Class: Realization with operator overload
+
+[Reference Codes: Vector.h](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Exercise_4/Vector.h)
+[Reference Codes: Vector.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Exercise_4/Vector.cpp)
+[Reference Codes: Matrix.h](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Exercise_4/Matrix.h)
+[Reference Codes: Matrix.cpp](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Exercise_4/Matrix.cpp)
+[Reference Codes: Test](https://github.com/wenyi1994/General-CPP/blob/master/Example_Programs/Exercise_4/exercise_4.cpp)
