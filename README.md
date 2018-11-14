@@ -2,7 +2,7 @@
 Some basic knowledges and applications of C++ will be delivered. The content focuses on the realization of the function rather than algorithms. In engineering area, the most important thing is to meet various of requirements. No one cares how it is achieved.  
 *Anything is at all better than nothing.*
 
-The lecture is devided into 6 parts:
+The tutoring is devided into 6 parts:
 * Variable
 * Branch Statement
 * Function
